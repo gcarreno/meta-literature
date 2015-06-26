@@ -12,7 +12,7 @@ At this moment the nature of this output is being formulated.
 
 ###HTML
 
-This one is a must and will be shipping with the initial batch
+This one is a must and will be shipping with the initial batch.
 
 ###Mardown
 

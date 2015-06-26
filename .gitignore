@@ -43,6 +43,7 @@ __history/
 
 # Lazarus history and backups
 backup/
+*.bak
 
 # Castalia statistics file
 *.stat
