@@ -3,7 +3,7 @@ Set of rules and a GUI application for literature writing and formating.
 
 ###Documentation and Definition
 
-This project has a [wiki](/wiki) that will give a better understanding of the entirety of this effort.
+This project has a [wiki](wiki) that will give a better understanding of the entirety of this effort.
 
 ###Plugin system
 
