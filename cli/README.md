@@ -2,12 +2,12 @@
 
 ###Meta-Literature to HTML
 
-`matelit2html` - exports to HTML
+`metalit2html` - exports to HTML
 
 ###Meta-Literature to Markdown
 
-`matelit2md` - exports to Markdown
+`metalit2md` - exports to Markdown
 
 ###Meta-Literature to PDF
 
-`matelit2pdf` - exports to PDF
+`metalit2pdf` - exports to PDF
