@@ -2,4 +2,4 @@
 
 ###Usage
 
-`metalit2md` `\[options\]` `\<\*.book\|\*.article\>` 
+`metalit2md` `[options]` `<*.book|*.article>`
