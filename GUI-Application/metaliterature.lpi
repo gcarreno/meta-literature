@@ -37,8 +37,8 @@
       <Unit0>
         <Filename Value="metaliterature.lpr"/>
         <IsPartOfProject Value="True"/>
-        <TopLine Value="2"/>
-        <CursorPos Y="27"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="24" Y="15"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -68,7 +68,6 @@
         <Filename Value="../src/gcarreno.metalit.plugin.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GCarreno.MetaLit.Plugin"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
         <TopLine Value="2"/>
         <CursorPos Y="27"/>
