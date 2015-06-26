@@ -38,6 +38,7 @@
         <Filename Value="metaliterature.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="metaliterature"/>
+        <IsVisibleTab Value="True"/>
         <CursorPos X="37" Y="6"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -48,9 +49,9 @@
         <ComponentName Value="frmMain"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="GCarreno.MetaLit.Forms.Main"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="21" Y="3"/>
+        <TopLine Value="3"/>
+        <CursorPos X="21" Y="28"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
