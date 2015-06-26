@@ -33,12 +33,10 @@
         <PackageName Value="LCL"/>
       </Item1>
     </RequiredPackages>
-    <Units Count="2">
+    <Units Count="4">
       <Unit0>
         <Filename Value="metaliterature.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="metaliterature"/>
-        <IsVisibleTab Value="True"/>
         <CursorPos X="37" Y="6"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -47,6 +45,7 @@
         <Filename Value="gcarreno.metalit.forms.main.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="GCarreno.MetaLit.Forms.Main"/>
         <EditorIndex Value="1"/>
@@ -56,6 +55,23 @@
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
+      <Unit2>
+        <Filename Value="../src/gcarreno.metalit.rules.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GCarreno.MetaLit.Rules"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../src/gcarreno.metalit.plugin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GCarreno.MetaLit.Plugin"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit3>
     </Units>
     <CustomDefines Count="1">
       <Define0 Value="UseCThreads"/>
@@ -69,7 +85,7 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="../bin"/>
+      <OtherUnitFiles Value="../bin;../src"/>
       <UnitOutputDirectory Value="../bin/lib/$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Linking>
