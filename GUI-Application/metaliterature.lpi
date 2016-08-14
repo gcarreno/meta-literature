@@ -33,13 +33,13 @@
         <PackageName Value="LCL"/>
       </Item1>
     </RequiredPackages>
-    <Units Count="4">
+    <Units Count="8">
       <Unit0>
         <Filename Value="metaliterature.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
         <CursorPos X="24" Y="15"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -50,8 +50,9 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="GCarreno.MetaLit.Forms.Main"/>
         <EditorIndex Value="1"/>
+        <TopLine Value="3"/>
         <CursorPos Y="27"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
@@ -60,8 +61,9 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="GCarreno.MetaLit.Rules"/>
         <EditorIndex Value="2"/>
+        <TopLine Value="2"/>
         <CursorPos Y="27"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>
@@ -71,12 +73,40 @@
         <EditorIndex Value="3"/>
         <TopLine Value="2"/>
         <CursorPos Y="27"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit3>
+      <Unit4>
+        <Filename Value="../../../Dropbox/LazComponents/LazRGBGraphics-0.2.1/rgbgtkroutines.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="3" Y="41"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../../Development/FreePascal/fpc/packages/fpgtk/src/editor/gtkdef.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../../Development/FreePascal/lazarus/lcl/interfaces/gtk/gtkdef.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="18" Y="125"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../../Dropbox/LazComponents/powerpdf_0.9.12_20141205/PdfDoc.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="619"/>
+        <CursorPos X="5" Y="632"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
     </Units>
-    <CustomDefines Count="1">
+    <CustomDefines Count="2">
       <Define0 Value="UseCThreads"/>
+      <Define1 Value="GTK_POST_0924"/>
     </CustomDefines>
     <JumpHistory HistoryIndex="-1"/>
   </ProjectOptions>
