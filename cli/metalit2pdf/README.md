@@ -1,5 +1,5 @@
-#Meta-Literature to PDF
+# Meta-Literature to PDF
 
-###Usage
+### Usage
 
-`metalit2pdf` `[options]` `<*.book|*.article>`
+`metalit2pdf [options] <*.book|*.article>`
