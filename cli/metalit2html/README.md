@@ -1,5 +1,5 @@
-#Meta-Literature to HTML
+# Meta-Literature to HTML
 
-###Usage
+### Usage
 
-`metalit2html` `[options]` `<*.book|*.article>` 
+`metalit2html [options] <*.book|*.article>` 
