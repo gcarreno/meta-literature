@@ -1,5 +1,5 @@
-#Meta-Literature to Markdown
+# Meta-Literature to Markdown
 
-###Usage
+### Usage
 
-`metalit2md` `[options]` `<*.book|*.article>`
+`metalit2md [options] <*.book|*.article>`
